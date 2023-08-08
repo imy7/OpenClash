@@ -98,7 +98,7 @@ o:value("https://subconverter.herokuapp.com/sub", translate("subconverter.heroku
 o:value("https://v.id9.cc/sub", translate("v.id9.cc")..translate("(Support Vless By Pinyun)"))
 o:value("https://sub.id9.cc/sub", translate("sub.id9.cc"))
 o:value("https://api.wcc.best/sub", translate("api.wcc.best"))
-o.default = "https://api.dler.io/sub"
+o.default = "https://sub.789.st/sub"
 
 ---- Template
 o = s:option(ListValue, "template", translate("Template Name"))
